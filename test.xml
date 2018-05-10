@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+        <version>1.0</version>
+        <version>2.0</version>
+        <version>3.0</version>
+        <info>xml解析测试</info>
+        <user>
+            <name>格纳库网</name>
+            <url>http://www.genaku.com</url>
+            <author sex="男">李炎恢</author>
+        </user>
+        <user>
+            <name>讴歌官网</name>
+            <url>http://www.acura.com</url>
+            <author E_sex="woman" sex="女">谁谁谁</author>
+        </user>
+        <user>
+            <name>电驴网</name>
+            <url>http://www.vercd.com</url>
+            <author sex="男">姓黄的</author>
+        </user>
+    </root>
